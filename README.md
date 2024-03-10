@@ -1,1 +1,3 @@
 # born2beroot
+
+The Born2BeRoot project is a systems administration and networking assignment designed for students at 42, a coding school that emphasizes peer-to-peer learning. The task typically involves setting up a server using specific guidelines, which may include configuring a Linux operating system, implementing strict partitioning schemes, setting up network services, and applying security measures such as firewall and SELinux or AppArmor. The project aims to provide hands-on experience with system and network management while enforcing best practices for security and resource efficiency. I hated this project.
